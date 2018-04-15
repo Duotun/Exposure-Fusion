@@ -13,7 +13,7 @@ Multi-exposure image composition in both static and dynamic scenes
 
 <img src="exposure_results/forest.png" align="middle" />
 
-<img src="exposure_results/forest_re.png" align="middle" />
+<img src="exposure_results/foerest_re.png" align="middle" />
 
 <img src="exposure_results/arch.png" align="middle" />
 
