@@ -1,0 +1,1 @@
+﻿opencv_world331d.lib(opencv_world331d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
