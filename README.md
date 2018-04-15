@@ -3,4 +3,4 @@ An implementation of CVPR 2010
 
 Multi-exposure image composition in both static and dynamic scenes
 
-<img src="effects/images/unity-wide.png" align="middle" width="3000"/>
+<img src="exposure_results/bridge.png" align="middle" />
