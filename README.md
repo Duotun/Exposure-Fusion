@@ -17,4 +17,4 @@ Multi-exposure image composition in both static and dynamic scenes
 
 <img src="exposure_results/arch.png" align="left" />
 
-<img src="exposure_results/arch1.png" align="right" />
+<img src="exposure_results/arch1.png" align="middle" />
